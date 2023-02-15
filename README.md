@@ -1,16 +1,28 @@
 ### Hi there 👋
+my name is Ronny Garcia and I'm studying engineering in computer science. As a full stack developer, I have experience working with a variety of languages and technologies. My main languages are Python and JavaScript, but I also have knowledge of C, C++, Java, and Go.
 
-<!--
-**R00rss/R00rss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On the front-end, I have two years of experience using React where I learned to use custom hooks, Redux, React Router, and how to deploy using Vite. On the back-end, I have knowledge using Node.js with Express and FastAPI, as well as Flask with Python. When it comes to databases, I have experience with MySQL, PostgreSQL, Firebase, and MongoDB.
 
-Here are some ideas to get you started:
+I also have knowledge in AI, including training models using Scikit-learn and TensorFlow Keras. In addition to programming, I love creating beautiful designs using CSS, Sass, and Tailwind. I enjoy using my creativity to make web applications that not only function well, but also look great.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+* Python
+* JavaScript
+* Java
+* React
+* Vite
+* Node.js
+* Express
+* FastAPI
+* Flask
+* MySQL
+* PostgreSQL
+* Firebase
+* MongoDB
+* Scikit-learn
+* TensorFlow Keras
+* CSS
+* Tailwind
+
+### Contact Me
+If you'd like to get in touch with me, feel free to reach out via email at ronny_ricard1@hotmail.es. Thanks for stopping by!
